@@ -1,0 +1,10 @@
+{
+  "name": "Teller_US",
+  "symbol": "Teller_US",
+  "decimals": 18,
+  "description": "Teller_US is a decentralized payment token.",
+  "website": "https://tellerus.com",
+  "explorer": "https://bscscan.com/token/0x562b07e9f73dabbc737ec669f474b9516cd94d63",
+  "status": "active",
+  "id": "teller_us"
+}
